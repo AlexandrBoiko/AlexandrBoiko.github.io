@@ -1,0 +1,5 @@
+src/
+.gitconfig
+.editorconfig
+package.json
+gulpfile.js
